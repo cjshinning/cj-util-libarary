@@ -1,5 +1,5 @@
 {
-  "name": "libarary-jenny-chan-2021",
+  "name": "cj-util-libarary",
   "version": "1.0.0",
   "description": "learning webpack",
   "main": "./dist/library.js",
